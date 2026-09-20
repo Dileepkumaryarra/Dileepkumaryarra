@@ -36,6 +36,10 @@ Check out my curated case studies in **Digital SCM Analytics**:
 
 ---
 
+
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/dileep-y-16509639
-- Email: Dileepkumar.yarra@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/dileepkumaryarra](https://www.linkedin.com/in/dileepkumaryarra)  
+- 📧 Email: dileepkumaryarra@gmail.com  
+- 📂 GitHub Portfolio: [SCM Analytics Portfolio](https://github.com/Dileepkumaryarra/SCM-Analytics-Portfolio)  
+ 
+
