@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Dileep Kumar Yarra
 
-<!--
-**Dileepkumaryarra/Dileepkumaryarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Digital Supply Chain Analytics | AI & Decision Support Systems**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 MBA in Supply Chain Management & Operations (IIM Mumbai)  
+- 💼 15+ years of experience driving demand & supply planning, inventory optimization, and logistics strategy  
+- 🛠 Expert in Blue Yonder solutions, decision support systems, and AI‑driven analytics  
+- 🌍 Proven track record of leading transformation initiatives across FMCG & Retail supply chains  
+- 🔑 Focused on positioning supply chain as a **strategic lever for growth and resilience**, not just an operational function
+
+---
+
+## 📂 Featured Portfolio
+Check out my curated case studies in **Digital SCM Analytics**:  
+- 📈 [Demand Forecasting](https://github.com/Dileepkumaryarra/SCM-Analytics-Portfolio/tree/main/Demand-Forecasting)  
+- 📦 [Inventory Optimization](https://github.com/Dileepkumaryarra/SCM-Analytics-Portfolio/tree/main/Inventory-Optimization)  
+- 🤝 [Supplier Risk Analysis](https://github.com/Dileepkumaryarra/SCM-Analytics-Portfolio/tree/main/Supplier-Risk-Analysis)  
+- 🚚 [Logistics Network Design](https://github.com/Dileepkumaryarra/SCM-Analytics-Portfolio/tree/main/Logistics-Network-Design)  
+
+---
+
+## 🌟 What I’m Working On
+- Curating a **GitHub portfolio of SCM case studies** that demonstrate end‑to‑end expertise in forecasting, inventory, supplier risk, and logistics design.  
+- Developing **executive frameworks** that connect analytics to boardroom decisions — showing how supply chain drives profitability and resilience.  
+- Exploring **AI‑powered planning tools** to enable faster, smarter decision‑making in complex global supply chains.  
+- Positioning my experience for **Senior Director & Executive roles** where supply chain strategy is central to digital transformation.  
+
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/dileep-y-16509639
+- Email: Dileepkumar.yarra@gmail.com  
