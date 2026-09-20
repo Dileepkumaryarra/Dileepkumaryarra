@@ -1,12 +1,9 @@
 ![Banner](banner.png)
 
-# 👋 Hi, I'm Dileep Kumar Yarra
-
-
 # 📈 Digital Supply Chain Architect | Turning Analytics into Boardroom Strategy
 🎯 Strategic SCM Analytics | AI‑Driven Planning & Decision Support
 
-
+🔑 I help organizations transform supply chains into strategic growth engines by combining AI‑driven planning, advanced analytics, and executive leadership.
 
 
 ---
@@ -38,6 +35,25 @@ Check out my curated case studies in **Digital SCM Analytics**:
 
 ---
 
+## 📂 SCM Analytics Portfolio
+
+### 📦 Demand Forecasting
+- Built advanced forecasting models using Blue Yonder Demand & AI‑driven analytics  
+- Demonstrated accuracy improvements and scenario planning for FMCG & Retail  
+
+### 🏬 Inventory Optimization
+- Designed frameworks to balance service levels vs. working capital  
+- Case studies show reduction in stockouts and excess inventory  
+
+### 🤝 Supplier Risk Management
+- Developed decision support dashboards to assess supplier reliability  
+- Modeled risk scenarios and mitigation strategies for global sourcing  
+
+### 🚚 Logistics Network Design
+- Created optimization models for distribution routes and warehouse placement  
+- Showcased cost savings and resilience improvements in supply chain flows  
+
+----
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: [linkedin.com/in/dileepkumaryarra](https://www.linkedin.com/in/dileepkumaryarra)  
